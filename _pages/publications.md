@@ -5,12 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+## DS-SLAM: A Semantic Visual SLAM towards Dynamic Environments  
+Chao Yu, <b>Zuxin Liu</b> et al. DS-SLAM: A Semantic Visual SLAM towards Dynamic Environments[C], <i> 2018 IEEE International Conference on Intelligent Robots and Systems (IROS).</i>  
+<p>Paper is available  <a href=" {{ 'https://arxiv.org/abs/1809.05845' }} "><u>here</u></a></p>
 
-{% include base_path %}
+## Where Should We Place LiDARs on the Autonomous Vehicle? - An Optimal Design Approach  
+<b>Zuxin Liu</b> et al. Where Should We Place LiDARs on the Autonomous Vehicle? - An Optimal Design Approach[C], <i> 2019 IEEE International Conference on Robotics and Automation (ICRA).</i> (submitted)  
+<p>Paper is available  <a href=" {{ 'https://arxiv.org/abs/1809.05845' }} "><u>here</u></a></p>
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+## Dense-WVLAD: A CNN feature based loop closure detection method
+Chao Yu, <b>Zuxin Liu</b> et al. Dense-WVLAD: A CNN feature based loop closure detection method[C], <i> 2019 IEEE International Conference on Robotics and Automation (ICRA).</i> (submitted)  
+
+
