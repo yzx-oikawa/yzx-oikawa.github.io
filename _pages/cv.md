@@ -25,7 +25,7 @@ Exchange Student at the Computer Science Department, _September 2018 -- present_
 
 Publications
 ======
-* **[DS-SLAM: A Semantic Visual SLAM towards Dynamic Environments](https://arxiv.org/abs/1809.05845)**  
+* **[DS-SLAM: A Semantic Visual SLAM towards Dynamic Environments](https://arxiv.org/abs/1809.08379)**  
 Chao Yu, <b>Zuxin Liu</b> et al. DS-SLAM: A Semantic Visual SLAM towards Dynamic Environments[C], <i> 2018 IEEE International Conference on Intelligent Robots and Systems (IROS).</i>
 <style> a:hover{ text-decoration:underline}</style>
 
