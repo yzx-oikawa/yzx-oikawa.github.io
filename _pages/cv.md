@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[**Here is my Curriculum Vitae**](/files/paper1.pdf).
+[**Here is my Curriculum Vitae**](/files/cv.pdf).
 
 Education
 ======

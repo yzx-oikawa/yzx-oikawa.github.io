@@ -52,5 +52,7 @@ Research Assistant with Prof. Zhenzhong Wei, _September 2016 -- present_
 Algorithm Engineer Intern at the RoboMaster Department, _Summer 2017_    
     * Co-designed an automatic AI robot system which is developed for 2018 ICRA DJI RoboMaster AI challenge
     * Developed the localization module based on laser SLAM and ROS
-    * Developed the enemy detection module based on computer vision
+    * Developed the enemy detection module based on computer vision  
+
+![here](/images/rm.jpg)
 
