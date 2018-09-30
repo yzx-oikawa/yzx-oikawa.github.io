@@ -10,11 +10,11 @@ redirect_from:
 
 Thank you for your visit.
 
-I am Zuxin Liu, a senior undergraduate student at the [Beihang University](http://ev.buaa.edu.cn/), Beijing, China. Now I am an exchange student at the [Department of Computer Science of Technische Universität Darmstadt](https://www.informatik.tu-darmstadt.de/fb20/index.en.jsp), Darmstadt, Germany. My research interests include robotics, computer vision, machine learning, and their application in autonomous vehicle.
+I am Zuxin Liu, a senior undergraduate student at the [Beihang University](https://ev.buaa.edu.cn/), Beijing, China. Now I am an exchange student at the [Department of Computer Science of Technische Universität Darmstadt](https://www.informatik.tu-darmstadt.de/fb20/index.en.jsp), Darmstadt, Germany. My research interests include robotics, computer vision, machine learning, and their application in autonomous vehicle.
 
-I was a research assistant at the [iVip](http://nics.ee.tsinghua.edu.cn/people/ivip/) lab of Tsinghua University from September 2017 to July 2018. Under the supervision of Prof. [Fei Qiao](http://nics.ee.tsinghua.edu.cn/people/qiaofei/), I worked on semantic visual SLAM, and the research paper has been accepted by [IROS 2018](https://www.iros2018.org/).
+I was a research assistant at the [iVip](https://nics.ee.tsinghua.edu.cn/people/ivip/) lab of Tsinghua University from September 2017 to July 2018. Under the supervision of Prof. [Fei Qiao](https://nics.ee.tsinghua.edu.cn/people/qiaofei/), I worked on semantic visual SLAM, and the research paper has been accepted by [IROS 2018](https://www.iros2018.org/).
 
-In the 2018 summer, I was a visit student at the [Carnegie Mellon University](https://www.cmu.edu/), advised by Prof. [Ding Zhao](http://www.andrew.cmu.edu/user/dingzhao/) at the Safe-AI Lab. During the summer, I worked on optimizing the LiDAR space configuration on self-driving cars, and the [research paper](https://arxiv.org/abs/1809.05845) has been submitted to [ICRA 2019](https://www.icra2019.org/). 
+In the 2018 summer, I was a visit student at the [Carnegie Mellon University](https://www.cmu.edu/), advised by Prof. [Ding Zhao](https://www.andrew.cmu.edu/user/dingzhao/) at the Safe-AI Lab. During the summer, I worked on optimizing the LiDAR space configuration on self-driving cars, and the [research paper](https://arxiv.org/abs/1809.05845) has been submitted to [ICRA 2019](https://www.icra2019.org/). 
 
 I also spent a summer in 2017 interning as an algorithm engineer at the [Robomaster Department](https://www.robomaster.com/en-US) of [DJI](https://www.dji.com/company) company, where I co-designed an automatic AI cooperative robot system which is developed for [2018 ICRA DJI RoboMaster AI challenge](https://icra2018.org/dji-robomaster-ai-challenge/).
 
