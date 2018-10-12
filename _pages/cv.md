@@ -16,12 +16,14 @@ Education
 * **Beihang University**, Beijing, China  
 B.Eng. in Technology and Apparatus of Measuring and Control, _September 2015 -- present_
   * GPA: 3.86/4.00, 3/167 (Rank)
-  * National Scholarship (top1%), 2016&2017
+  * National Scholarship (top1%), 2016&2017&2018
+  * China Instrument Society First Class Scholarship (top0.2%), 2018
   * Dean’s Award (top1%), 2017
   * First Class of Scholarship(top1%), 2016&2017
 
 * **Darmstadt University of Technology**, Darmstadt, Germany  
 Exchange Student at the Computer Science Department, _September 2018 -- present_
+  * China Scholarship Council Full Scholarship
 
 Publications
 ======
@@ -50,7 +52,7 @@ Research Assistant with Prof. Ding Zhao, _July 2018 -- September 2018_
 Research Assistant with Prof. Fei Qiao, _September 2017 -- July 2018_    
    **Project 1:** DS-SLAM: A Semantic Visual SLAM towards Dynamic Environments 
     * Employed semantic segmentation neural network to improve Simultaneous Localization And Mapping (SLAM) robustness in dynamic environments
-    * Paper has been accepted by 2018 International Conference on Intelligent Robots and Systems (IROS) with oral presentation
+    * Paper has been accepted by 2018 International Conference on Intelligent Robots and Systems (IROS) with oral presentation (one of the most popular presentations at IROS 2018 ranked by [INFOVAYA](https://events.infovaya.com/))
     
   **Project 2:** Dense-WVLAD: A CNN feature based loop closure detection method
     * Used CNN feature to address loop closure detection problem in autonomous robot field
