@@ -7,6 +7,14 @@ author_profile: true
 
 Research Experience
 ======
+* **Darmstadt University of Technology**, Darmstadt, Germany  
+Supervisor: Prof. Jan Peters & Dr. Riad Akrour, _September 2018 -- present_        
+  **Project 1:** Write a book chapter of the reinforcement learning (May be published on Springer) 
+    * Conduct deep and comprehensive survey on the model predictive control in the reinforcement learning field
+
+  **Project 2:** Project lab: application of reinforcement learning methods 
+    * Implement the DQN and MPC algorithms from scratch and thoroughly evaluate them on the Cart-pole, Double-cart-pole and Furuta Pendulum robot platforms
+
 * **Carnegie Mellon University**, Pittsburgh, USA  
 Research Assistant with Prof. Ding Zhao, _July 2018 -- September 2018_        
   **Project 1:** An Optimal LiDAR Configuration Approach for Self-Driving Cars
@@ -51,7 +59,7 @@ Research Assistant with Prof. Zhenzhong Wei, _September 2016 -- present_
 * **Da-Jiang Innnovations (DJI)**, Shenzhen, China  
 Algorithm Engineer Intern at the RoboMaster Department, _Summer 2017_    
     * Co-designed an automatic AI robot system which is developed for 2018 ICRA DJI RoboMaster AI challenge
-    * Developed the localization module based on laser SLAM and ROS
+    * Developed the localization module based on the LiDAR SLAM
     * Developed the enemy detection module based on computer vision  
 
 ![here](/images/rm.jpg)

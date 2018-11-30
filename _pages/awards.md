@@ -5,6 +5,14 @@ permalink: /awards/
 author_profile: true
 ---
 
+* **National Scholarship**  
+Ministry of Education of the People's Republic of China, _2016 & 2017 & 2018_    
+* **Dean's Award**  
+School of Instrumentation and Optoelectronic Engineering, Beihang University, _2016_    
+* **China Instrument Society First Class Scholarship**  
+China Instrument Society, _2018_    
+* **First Class of Scholarship**  
+Beihang University, _2016 & 2017_    
 * **National Undergraduate Training Program for Innovation, CNY 10000**  
 Beihang University, _2018_    
 * **Beijing Outstanding Student**  
@@ -17,3 +25,6 @@ Beijing Society of Physics, _2016_
 Beihang University, _2016 & 2017_    
 * **University-level Excellent Member**  
 Beihang University, _2016 & 2017 & 2018_    
+
+
+
