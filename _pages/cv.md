@@ -17,6 +17,7 @@ Education
 B.Eng. in Technology and Apparatus of Measuring and Control, _September 2015 -- present_
   * GPA: 3.94/4.00, 1/167 (Cumulative Rank)
   * National Scholarship (top1%), 2016&2017&2018
+  * Shenyuan Golden Medal Award candidate (25/4000), 2018
   * China Instrument Society First Class Scholarship (top0.2%), 2018
   * Dean’s Award (top1%), 2017
   * First Class of Scholarship(top1%), 2016&2017
@@ -41,7 +42,7 @@ Chao Yu, <b>Zuxin Liu</b> et al. Dense-WVLAD: A CNN feature based loop closure d
 Research Experience
 ======
 * **Darmstadt University of Technology**, Darmstadt, Germany  
-Supervisor: Prof. Jan Peters & Dr. Riad Akrour, _September 2018 -- present_        
+Supervisor: Prof. Jan Peters & Dr. Riad Akrour, _October 2018 -- present_        
   **Project 1:** Write a book chapter of the reinforcement learning (May be published on Springer) 
     * Conduct deep and comprehensive survey on the model predictive control in the reinforcement learning field
 
