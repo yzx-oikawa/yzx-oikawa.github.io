@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-#[**Here is my Curriculum Vitae**](/files/cv.pdf).
 
 Education
 ======
@@ -36,8 +35,6 @@ Chao Yu, <b>Zuxin Liu</b> et al. DS-SLAM: A Semantic Visual SLAM towards Dynamic
 * **[Where Should We Place LiDARs on the Autonomous Vehicle? - An Optimal Design Approach](https://arxiv.org/abs/1809.05845)**  
 <b>Zuxin Liu</b> et al. Where Should We Place LiDARs on the Autonomous Vehicle? - An Optimal Design Approach[C], <i> 2019 IEEE International Conference on Robotics and Automation (ICRA).</i>   
 
-#* **Dense-WVLAD: A CNN feature based loop closure detection method**  
-#Chao Yu, <b>Zuxin Liu</b> et al. Dense-WVLAD: A CNN feature based loop closure detection method[C], <i> 2019 IEEE International Conference on Robotics and Automation (ICRA).</i> (submitted)  
 
 Research Experience
 ======
@@ -49,14 +46,6 @@ Supervisor: Prof. Jan Peters & Dr. Riad Akrour, _October 2018 -- present_
   **Project 2:** Project lab: application of reinforcement learning methods 
     * Implement the DQN and MPC algorithms from scratch and thoroughly evaluate them on the Cart-pole, Double-cart-pole and Furuta Pendulum robot platforms
 
-#* **Carnegie Mellon University**, Pittsburgh, USA  
-#Supervisor: Prof. Ding Zhao, _July 2018 -- September 2018_        
-#  **Project 1:** An Optimal LiDAR Configuration Approach for Self-Driving Cars
-#    * Independently investigated the optimal LiDAR space configuration problem to achieve the maximum utility of the sensor. The whole problem is formulated as an optimization model and a bio-inspired metric is proposed as the cost function
-#    * Paper has been submitted to 2019 ICRA
-
-#  **Project 2:** Autonomous Vehicle Platform Design 
-#    * Help to design and develop a 6-DOF attitude control system based on a 3-axis gimbal and a 3-axis linear slider
 
 * **Tsinghua University**, Beijing, China  
 Supervisor: Prof. Fei Qiao, _September 2017 -- July 2018_    
