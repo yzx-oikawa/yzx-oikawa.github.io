@@ -15,14 +15,6 @@ Supervisor: Prof. Jan Peters & Dr. Riad Akrour, _September 2018 -- present_
   **Project 2:** Project lab: application of reinforcement learning methods 
     * Implement the DQN and MPC algorithms from scratch and thoroughly evaluate them on the Cart-pole, Double-cart-pole and Furuta Pendulum robot platforms
 
-* **Carnegie Mellon University**, Pittsburgh, USA  
-Research Assistant with Prof. Ding Zhao, _July 2018 -- September 2018_        
-  **Project 1:** An Optimal LiDAR Configuration Approach for Self-Driving Cars
-    * Independently investigated the optimal LiDAR space configuration problem to achieve the maximum utility of the sensor. The whole problem is formulated as an optimization model and a bio-inspired metric is proposed as the cost function
-    * Paper has been submitted to 2019 ICRA
-
-  **Project 2:** Autonomous Vehicle Platform Design 
-    * Help to design and develop a 6-DOF attitude control system based on a 3-axis gimbal and a 3-axis linear slider
 
 * **Tsinghua University**, Beijing, China  
 Research Assistant with Prof. Fei Qiao, _September 2017 -- July 2018_    
