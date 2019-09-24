@@ -11,7 +11,7 @@ title                    : "Zuxin Liu | About me"
 title_separator          : "-"
 name                     : &name "Zuxin Liu"
 description              : &description "personal description"
-url                      : https://zuxin.me  # https://liuzuxin.github.io # https://liuzuxin.github.io/zuxin # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://liuzuxin.github.io #http://127.0.0.1:4000/ #https://zuxin.me  # https://liuzuxin.github.io # https://liuzuxin.github.io/zuxin # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "liuzuxin/liuzuxin.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -81,11 +81,11 @@ analytics:
 author:
   name             : "Zuxin Liu"
   avatar           : "bio-photo.jpg"
-  bio              : "BUAA | Robotics"
-  location         : "Darmstadt, Germany"
+  bio              : "CMU | Ph.D Student"
+  location         : "Pittsburgh, USA"
   employer         :
   googlescholar    : # "https://yourfullgooglescholarurl.com"
-  email            :  xinye@buaa.edu.cn
+  email            :  zuxinl@andrew.cmu.edu
   uri              :
   bitbucket        :
   codepen          :
@@ -93,12 +93,12 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"liuzuxin"
+  github           : "liuzuxin"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "zuxin-liu-720846153"
   orcid            : # "https://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :

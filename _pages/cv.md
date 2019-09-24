@@ -12,8 +12,12 @@ redirect_from:
 
 Education
 ======
+* **Carnegie Mellon University**, Pittsburgh, USA  
+Ph.D. in Mechanical Engineering, supervised by Prof. Ding Zhao _August 2018 -- present_
+  * Fellowship Scholarship
+
 * **Beihang University**, Beijing, China  
-B.Eng. in Technology and Apparatus of Measuring and Control, _September 2015 -- present_
+B.Eng. in Technology and Apparatus of Measuring and Control, _September 2015 -- June 2019_
   * GPA: 3.94/4.00, 1/167 (Cumulative Rank)
   * National Scholarship (top1%), 2016&2017&2018
   * Shenyuan Golden Medal Award (10/4000), 2018
@@ -22,7 +26,7 @@ B.Eng. in Technology and Apparatus of Measuring and Control, _September 2015 -- 
   * First Class of Scholarship(top1%), 2016&2017
 
 * **Darmstadt University of Technology**, Darmstadt, Germany  
-Exchange Student at the Computer Science Department, _September 2018 -- present_
+Exchange Student at the Computer Science Department, _September 2018 -- March 2019_
   * Fully funded by the China Scholarship Council
   * Ongoing courses: Computer Vision; Robot Learning (Lecture, Seminar, Project Lab)
 
@@ -39,11 +43,8 @@ Chao Yu, <b>Zuxin Liu</b> et al. DS-SLAM: A Semantic Visual SLAM towards Dynamic
 Research Experience
 ======
 * **Darmstadt University of Technology**, Darmstadt, Germany  
-Supervisor: Prof. Jan Peters & Dr. Riad Akrour, _October 2018 -- present_        
-  **Project 1:** Write a book chapter of the reinforcement learning (May be published on Springer) 
-    * Conduct deep and comprehensive survey on the model predictive control in the reinforcement learning field
-
-  **Project 2:** Project lab: application of reinforcement learning methods 
+Supervisor: Prof. Jan Peters & Dr. Riad Akrour, _October 2018 -- March 2019_        
+  **Project 1:** Project lab: application of reinforcement learning methods 
     * Implement the DQN and MPC algorithms from scratch and thoroughly evaluate them on the Cart-pole, Double-cart-pole and Furuta Pendulum robot platforms
 
 
@@ -52,15 +53,12 @@ Supervisor: Prof. Fei Qiao, _September 2017 -- July 2018_
    **Project 1:** DS-SLAM: A Semantic Visual SLAM towards Dynamic Environments 
     * Employed semantic segmentation neural network to improve Simultaneous Localization And Mapping (SLAM) robustness in dynamic environments
     * Paper has been accepted by 2018 International Conference on Intelligent Robots and Systems (IROS) with oral presentation (one of the most popular presentations at IROS 2018 ranked by [INFOVAYA](https://events.infovaya.com/))
-    
-  **Project 2:** Dense-WVLAD: A CNN feature based loop closure detection method
-    * Used CNN feature to address loop closure detection problem in autonomous robot field
-    * Paper has been submitted to 2019 ICRA
+
 
 Academic Experience
 ======
 * **Beihang University**, Beijing, China  
-Supervisor: Prof. Zhenzhong Wei, _September 2016 -- present_        
+Supervisor: Prof. Zhenzhong Wei, _September 2016 -- October 2018_        
   **Project 1:** Robot’s Eyes and Brain: Visual Semantic SLAM System 
     * National Undergraduate Training Program for Innovation and Entrepreneurship
     * Led a team to enable the robot finish high-level tasks autonomously (eg. The robot could understand user’s voice instructions and help user to find objects)
@@ -89,11 +87,11 @@ Algorithm Engineer Intern at the RoboMaster Department, _Summer 2017_
 Teaching Experience & Leadership
 ======
 * **Students’ Union of Beihang University**  
-Head of Science Technology Department, _September 2016 -- Present_    
+Head of Science Technology Department, _September 2016 -- October 2018_    
     * In charge of the organization and training of scientific and technological events
 
 * **School of Instrumentation Science & Opto-electronics Engineering**  
-Freshmen’s Mentor, _September 2016 -- Present_    
+Freshmen’s Mentor, _September 2016 -- October 2018_    
     * Gave a series of lectures to teach students how to build a robot
     * Held a relevant smart robot competition for students
 

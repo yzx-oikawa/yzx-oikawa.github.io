@@ -5,6 +5,8 @@ permalink: /awards/
 author_profile: true
 ---
 
+Here I list some of the rewards I got during my bachelor's degree.
+
 * **National Scholarship**  
 Ministry of Education of the People's Republic of China, _2016 & 2017 & 2018_    
 * **Dean's Award**  
