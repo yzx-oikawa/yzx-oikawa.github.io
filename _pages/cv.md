@@ -13,7 +13,7 @@ redirect_from:
 Education
 ======
 * **Carnegie Mellon University**, Pittsburgh, USA  
-Ph.D. in Mechanical Engineering, supervised by Prof. Ding Zhao _August 2018 -- present_
+Ph.D. in Mechanical Engineering, supervised by Prof. Ding Zhao _August 2019 -- present_
   * Fellowship Scholarship
 
 * **Beihang University**, Beijing, China  
