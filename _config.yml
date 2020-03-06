@@ -84,7 +84,7 @@ author:
   bio              : "CMU | Ph.D Student"
   location         : "Pittsburgh, USA"
   employer         :
-  googlescholar    : # "https://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=5ApCTCoAAAAJ&hl=en" # "https://yourfullgooglescholarurl.com"
   email            :  zuxinl@andrew.cmu.edu
   uri              :
   bitbucket        :
