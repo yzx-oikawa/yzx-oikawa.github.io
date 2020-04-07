@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: test
 title: "Awards"
 permalink: /awards/
 author_profile: true
