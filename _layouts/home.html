@@ -1,0 +1,291 @@
+---
+layout: compress
+---
+
+{% include base_path %}
+{% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
+  {% include page__hero.html %}
+{% endif %}
+
+{% if page.url != "/" and site.breadcrumbs %}
+  {% unless paginator %}
+    {% include breadcrumbs.html %}
+  {% endunless %}
+{% endif %}
+
+<!doctype html>
+<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
+<head>
+   
+
+    {% include head.html %}
+    {% include head/custom.html %}
+
+     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <link rel="icon" href="{{ base_path }}/assets/media/foundation-icons/cmu.png" >
+    <meta name="description" content="Personal website of Wenhao Ding">
+     <!-- Bootstrap core CSS -->
+    <link href="{{ base_path }}/assets/media/bootstrap.min.css" rel="stylesheet">
+
+
+</head>
+
+<body data-gr-c-s-loaded="true">
+
+    {% include browser-upgrade.html %}
+    {% include masthead.html %}
+
+    </script>
+
+    <div class="page__footer">
+      <footer>
+        {% include footer/custom.html %}
+        {% include footer.html %}
+      </footer>
+    </div>
+
+    {% include scripts.html %}
+
+  <div id="content">
+        <!-- Page Content -->
+        <div id="page-content-wrapper">
+            <div class="container-fluid" style="display:block;margin-left:16%;margin-right:16%;">
+                <br>
+                <br>
+                <br>
+                <div class="row">
+                    <div class="col-md-3">
+                        <img class="img-responsive img-hover"; align="center"; src="{{ base_path }}/images/profile2.png"; onmouseover="this.src='{{ base_path }}/images/profile2.png'"; onmouseout="this.src='{{ base_path }}/images/profile2.png'"; width='200'; vertical-align='middle'>
+                    </div>
+                    <div class="col-md-9">
+                        <h1 style="color:#000000;padding-top:0px;margin-bottom:10px;margin-top:10px;text-align:left"><strong>Zuxin Liu</strong></h2>
+                        <!--h2 style="color:#000000;padding-top:0px;margin-bottom:9px;text-align:left"><strong>刘祖欣</strong></h2-->
+                        <br>
+                        <p style="color: #000000">Ph.D. Student, Department of Mechanical Engineering, Carnegie Mellon University.</p>
+                        <!--p style="color: #000000">Office: Room 8-101, Rohm Building, </p-->
+                        <p style="color: #000000">Contact: zuxinl <strong>AT</strong> andrew <strong>DOT</strong> cmu <strong>DOT</strong> edu</p>
+                        <!--a style="color: #000000"><strong>[</strong></a-->
+                        <a href="https://github.com/liuzuxin" target="_blank" style="padding-top:10px;margin-bottom:20px;margin-left:0px">Github</a>
+                        <a style="color: #000000"><strong>/</strong></a>
+                        <a href="https://scholar.google.com/citations?user=5ApCTCoAAAAJ&hl=en" style="padding-top:10px;margin-bottom:20px;margin-left:5px">Google Scholar</a>
+                        <a style="color: #000000"><strong>/</strong></a>
+                        <a href="https://www.linkedin.com/in/zuxin-liu-720846153/" style="padding-top:10px;margin-bottom:20px;margin-left:5px">LinkedIn</a>
+                        <!--a style="color: #000000"><strong>]</strong></a-->
+                        <!--p> style="line-height:20px;color: #000000">Besides, I spend much time on projects of low-level hardware and architecture design, which are also important for the whole robot platform.</p-->
+                    </div>
+                </div>
+                <hr>
+                <p style="line-height:25px;color: #000000">I am a first-year Ph.D. student at the <a href="http://www.andrew.cmu.edu/user/dingzhao/index.html" target="_blank">Safe AI Lab</a>, advised by Prof. Ding Zhao. Before that, I finished my bachelor's degree from <a href="http://ev.buaa.edu.cn" target="_blank">Beihang University</a> in June, 2019. During Sept. 2018 to Mar. 2019, I was an exchange student at the <a href="https://www.informatik.tu-darmstadt.de/fb20/index.en.jsp">Department of Computer Science of Technische Universität Darmstadt</a>.</p>
+                <p style="line-height:25px;color: #000000">My research interests include robotics, machine learning, and their applications in autonomous vehicle.</p>
+                
+                <div class="row">
+                    <div class="col-lg-12">
+                        <h4 class="page-header" id="publications"><font color=#000000><div style="line-height:15px"><strong>News & Updates</strong></div></font></h4>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-lg-12">
+                    <p><font color=#000000><strong>[2019/08/16]</strong> I joined CMU as a Ph.D. student.</font></p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-12">
+                    <p><font color=#000000><strong>[2019/06/14]</strong> I graduated from Beihang University with <strong>Beijing Outstanding Graduates</strong> honor. </font></p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-12">
+                    <p><font color=#000000><strong>[2018/09/28]</strong> Began my exchange life at TU Darmstadt, Germany.</font></p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-12">
+                    <p><font color=#000000><strong>[2017/07/09]</strong> Joined DJI as an Algorithm Engineer Intern.</font></p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-12">
+                    <p><font color=#000000><strong>[2017/01/15]</strong> Visited University of Canterbury, New Zealand.</font></p>
+                    </div>
+                </div>
+
+
+                <!-- Publications -->
+                <div class="row">
+                    <div class="col-lg-12">
+                        <h4 class="page-header" id="publications">
+                            <font color=#000000>
+                                <div style="line-height:15px"><strong>Selected Publications</strong> </div>
+                            </font>
+                        </h4>
+                    </div>
+                </div>                
+
+
+                <div class="row">
+                    <div class="col-md-3">
+                        <a>
+                            <img class="img-responsive img-hover" src="{{ base_path }}/images/2019-icra.jpg" alt="" style="padding-top:20px;width:249px;height:182px">
+                        </a>
+                    </div>
+                    <div class="col-md-9">
+                        <h5><font color=#000000><div style="line-height:20px"><strong>Where Should We Place LiDARs on the Autonomous Vehicle? - An Optimal Design Approach</strong></div></font></h5>
+                        <p style="line-height:20px"><strong>Zuxin Liu</strong>, Mansur Arief and Ding Zhao<br>IEEE International Conference on Robotics and Automation (ICRA) 2019, Montreal.</p>
+                        <p style="line-height:10px;color: #000000"><strong>[</strong><a href="https://arxiv.org/abs/1809.05845" target="_blank">arXiv</a><strong>] [</strong><a href="https://github.com/liuzuxin/liu_lidar_configuration_vsr_2018" target="_blank">code</a><strong>]</strong></p>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-3">
+                        <a>
+                            <img class="img-responsive img-hover" src="{{ base_path }}/images/2018-iros.jpg" alt="" style="padding-top:20px;width:249px;height:182px">
+                        </a>
+                    </div>
+                    <div class="col-md-9">
+                        <h5><font color=#000000><div style="line-height:20px"><strong>DS-SLAM: A Semantic Visual SLAM towards Dynamic Environments</strong></div></font></h5>
+                        <p style="line-height:20px">Chao Yu, <strong>Zuxin Liu</strong> and Fei Qiao<br>IEEE International Conference on Intelligent Robots and Systems (IROS) 2018, Madrid</p>
+                        <p style="line-height:10px;color: #000000"><strong>[</strong><a href="https://arxiv.org/abs/1809.08379" target="_blank">arXiv</a><strong>] [</strong><a href="https://github.com/liuzuxin/DS-SLAM" target="_blank">code</a><strong>]</strong></p>
+                    </div>
+                </div>
+                
+
+                <Heading>
+                <div class="row">
+                    <div class="col-lg-12">
+                        <h4 class="page-header" id="projects"><font color=#000000><div style="line-height:15px"><strong>Some Undergraduate Projects</strong></div></font></h4>
+                    </div>
+                </div>
+
+                <br>
+                <div class="row">
+                    <div class="col-md-3">
+                        <a>
+                            <img class="img-responsive img-hover" src="{{base_path}}/images/projects/semantic.gif" alt="" style="border:1px solid #C0C0C0">
+                        </a>
+                    </div>
+                    <div class="col-md-9">
+                        <h5><a><font color=#000000><div style="line-height:2px">Robot’s Eyes and Brain: Visual Semantic SLAM System, 2018</div></font></a></h5>
+                        <p style="line-height:20px"> We developed a visual semantic SLAM system based on orb-slam2 and Mask-RCNN. The robot can build a semantic map for the environment and remember each object's position. With a speech recognition module, we can use voice command to let the robot find a particular object if he has seen before. This project won the first prize in the 2018 International Conference on Optics and Photonics(ICOPEN) 3-D Sensor Application Design Competition (1 out of 20 teams around the world)</p>
+                        <p style="line-height:10px;color: #000000"><strong>[</strong><a href="https://www.bilibili.com/video/BV1CW41157W2">video</a><strong>]</strong>
+                    </div>
+                </div>
+
+                <br>
+
+                <div class="row">
+                    <div class="col-md-3">
+                        <a>
+                            <img class="img-responsive img-hover" src="{{base_path}}/images/projects/vr.gif" alt="" style="border:1px solid #C0C0C0">
+                        </a>
+                    </div>
+                    <div class="col-md-9">
+                        <h5><a><font color=#000000><div style="line-height:2px">VR Multicopter System, 2017</div></font></a></h5>
+                        <p style="line-height:20px">Do you want to fly? Our VR-Multicopter system can help you to experience the feeling of fly. We use a VR device to control orientation of a gimbal that mounted on our multicopter. The stereo camera on the gimbal will send videos back to our VR equipment in real-time. Just move your head and enjoy the view from sky! This project won the first prize in the 2017 International Design and Innovation Competition (1 out of 14 teams around the world) </p>
+                        <p style="line-height:10px;color: #000000">
+                          <strong>[</strong><a href="https://www.bilibili.com/video/BV1Vx411s7HM" target="_blank">video</a><strong>]</strong></p>
+                    </div>
+                </div>
+
+               
+
+                <br>
+
+                <div class="row">
+                    <div class="col-md-3">
+                        <a>
+                            <img class="img-responsive img-hover" src="{{base_path}}/images/projects/slam.gif" alt="" style="border:1px solid #C0C0C0">
+                        </a>
+                    </div>
+                    <div class="col-md-9">
+                        <h5><a><font color=#000000><div style="line-height:2px">Autonomous Navigation Robot, 2017</div></font></a></h5>
+                        <p style="line-height:20px">I led a team to build a mobile robot platform which could achieve autonomous navigation and obstacle avoidance based on RTAB-Map SLAM and ROS Navigation Stack. Just with one-click, the robot can autonomously navigate to wherever you want.</p>
+                        <p style="line-height:10px;color: #000000"><strong>[</strong><a href="https://www.bilibili.com/video/BV1Lx411e7As" target="_blank">video</a><strong>] </strong>
+                    </div>
+                </div>
+
+                <br>
+
+                <div class="row">
+                    <div class="col-md-3">
+                        <a>
+                            <img class="img-responsive img-hover" src="{{base_path}}/images/projects/dji.jpg" alt="" style="border:1px solid #C0C0C0">
+                        </a>
+                    </div>
+                    <div class="col-md-9">
+                        <h5><a><font color=#000000><div style="line-height:2px">Automatic AI Robot System, 2017</div></font></a></h5>
+                        <p style="line-height:20px"> This project is designed for <a href="https://www.icra2019.org/competitions/dji-robomaster-ai-challenge" target="_blank">ICRA DJI Robotmaster AI challenge</a>. The robots are required to autonomously find enemy robots and hit them (shoot rubber ball). More exciting information and videos about this robot platform and the relevant robot competition can be found <a href="https://www.robomaster.com/en-US">here.</a> </p>
+                    </div>
+                </div>
+                <br>
+
+                <div class="row">
+                    <div class="col-md-3">
+                        <a>
+                            <img class="img-responsive img-hover" src="{{base_path}}/images/projects/biaoqing.gif" alt="" style="border:1px solid #C0C0C0;width:249px;height:249px">
+                        </a>
+                    </div>
+                    <div class="col-md-9">
+                        <h5><a><font color=#000000><div style="line-height:2px">Arduino-based Interactive Facial Expression Robot, 2016</div></font></a></h5>
+                        <p style="line-height:20px">This cute robot could make different expressions according to user’s voice command. The movements of its eyes, eyebrow, and mouth etc are fully controlled by servo motors. Most of the materials are 3D printed. </p>
+                    </div>
+                </div>
+
+                <!-- Heading -->
+                <div class="row">
+                    <div class="col-lg-12">
+                        <h4 class="page-header" id="honors"><font color=#000000><div style="line-height:15px"><strong>Selected Honors and Awards</strong></div></font></h4>
+                    </div>
+                </div>
+                
+                <!-- New Project -->
+                <div class="row">
+                    <div class="col-md-12">
+                        <p style="color: #000000"><strong>[2016&2017&2018]</strong> National Scholarship (top 1%), Ministry of Education of the People's Republic of China </p>
+                        <p style="color: #000000"><strong>[2016&2017&2018]</strong> University-level Outstanding Student, Beihang University</p>
+                        <p style="color: #000000"><strong>[2018]</strong> Shenyuan Golden Medal Award (10/4000), Beihang University</p>
+                        <p style="color: #000000"><strong>[2018]</strong> Beijing Outstanding Student, Ministry of Education of Beijing</p>
+                        <p style="color: #000000"><strong>[2018]</strong> 28<sup>th</sup> Feng Ru Cup Competition of Academic and Technological Works (top1%), Beihang University</p>
+                        <p style="color: #000000"><strong>[2017]</strong> Dean's Award, Beihang University</p>
+                    </div>
+                </div>
+                <!-- /.row -->
+
+                <!-- Heading -->
+                <div class="row">
+                    <div class="col-lg-12">
+                        <h4 class="page-header" id="projects"><font color=#000000><div style="line-height:15px"></div></font></h4>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-3"></div>
+                    <div class="col-md-3">
+                        <a href="http://www.clustrmaps.com/map/Zuxin.me" title="Visit tracker for Zuxin.me"><img src="//www.clustrmaps.com/map_v2.png?d=Agf5h6w3DGpwhWmUzAM1hqH3jzRA0pIGts5BrPUz7Dc" /></a>
+                    </div>
+                    <div class="col-md-6">
+                        <h5 style="color:#787878;font-size:5px"> Updated on March 31<sup>st</sup>, 2020</p>
+                        &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
+                        <a href="zuxinl@andrew.cmu.edu" target="_blank"><img width="20" src="{{base_path}}/assets/media/icon/mail2.jpg" ></a>
+                        &nbsp
+                        <a href="https://github.com/liuzuxin" target="_blank"><img width="20" src="{{base_path}}/assets/media/icon/github.png" ></a>
+                        &nbsp
+                        <a href="https://www.linkedin.com/in/zuxin-liu-720846153/" target="_blank"><img width="20" src="{{base_path}}/assets/media/icon/linkedin.png" ></a>
+                        &nbsp
+                        <a href="https://scholar.google.com/citations?user=5ApCTCoAAAAJ&hl=en" target="_blank"><img width="20" src="{{base_path}}/assets/media/icon/google.png" ></a>
+                        <h5 style="color:#787878;font-size:5px"> &nbsp &nbsp &nbsp Wenhao Ding © 2017-2020</p>
+                    </div>
+                </div>
+                
+
+            </div> <!-- /#page-content-wrapper -->
+        </div>
+        <br>
+        <footer style="text-align:center">
+        </footer>
+        <br>
+        <script src="{{base_path}}/assets/js/jquery.min.js"></script>
+        <script src="{{base_path}}/assets/js/bootstrap.min.js"></script> <!-- static is the folder name -->
+    </div>
+
+</body>
