@@ -7,7 +7,7 @@ email:
   text: zixinye@andrew.cmu.edu
 homepage:
   url: https://yzx-oikawa.github.io
-  text: https://yzx-oikawa.github.io
+  text: yzx-oikawa.github.io
 ---
 
 # Zixin **Ye**
