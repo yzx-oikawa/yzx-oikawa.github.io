@@ -6,8 +6,8 @@ email:
   url: mailto:zixinye@andrew.cmu.edu
   text: zixinye@andrew.cmu.edu
 homepage:
-  url: http://www.zixin.me
-  text: www.zixin.me
+  url: https://yzx-oikawa.github.io
+  text: https://yzx-oikawa.github.io
 ---
 
 # Zixin **Ye**
