@@ -1,131 +1,135 @@
 ---
 layout: cv
-title: Zuxin Liu
+title: Zixin Ye
 permalink: /cv/
 email:
-  url: mailto:zuxinl@andrew.cmu.edu
-  text: zuxinl@andrew.cmu.edu
+  url: mailto:zixinye@andrew.cmu.edu
+  text: zixinye@andrew.cmu.edu
 homepage:
-  url: http://www.zuxin.me
-  text: www.zuxin.me
+  url: http://www.zixin.me
+  text: www.zixin.me
 ---
 
-# Zuxin **Liu**
+# Zixin **Ye**
 
 {% include cv-contact.html %}
 
 
 ## Education
 
-### **Carnegie Mellon University** `2019.8 -`
+### **Carnegie Mellon University - School of Computer Science** `Aug.2019 - Dec.2020`
 
 ```
 Pittsburgh, PA
 ```
 
-Ph.D. in Mechanical Engineering
-  * Advised by Prof. [Ding Zhao](http://www.andrew.cmu.edu/user/dingzhao/)
+Master of Software Engineering - Scalable Systems
+  * Courses: Analysis of Software Artifacts, DevOps, Managing Software Development
 
-### **Beihang University** `2015.9 - 2019.6`
+
+### **Beihang University** `Sep.2015 - Jun.2019`
 
 ```
 Beijing, China
 ```
 
-B.Eng. in Technology and Apparatus of Measuring and Control
-  * GPA: 3.94/4.00, 1/167 (Cumulative Rank)
-  * National Scholarship (top1%), 2016&2017&2018
-  * Shenyuan Golden Medal Award (10/4000), 2018
-  * China Instrument Society First Class Scholarship (top0.2%), 2018
-  * Dean’s Award (top1%), 2017
-  * First Class of Scholarship(top1%), 2016&2017
+Bachelor of Science in Computer Science
+  * Courses: Algorithm Design, Object-oriented Design and Constructrion, Database Systems
 
-### **Darmstadt University of Technology** `2018.9 - 2019.3`
+## Skills
+
+  * **Programming Languages**: Python, Java, C, C#, HTML5, CSS3, JavaScript, Node.js, SQL, MATLAB
+  * **Frameworks &amp; Tools**: Linux, MySQL, Git, AWS, Docker, Jenkins, Ansible, Microsoft SDK
+  * Algorithms, software management methodologies, data science techniques, basic models of machine learning.
+
+## Internship Experiences
+
+### **Global Science & Technology, Inc.** `May.2020 - Aug.2020`
 
 ```
-Darmstadt, Germany
+Greenbelt, Maryland
 ```
 
-Exchange Student at the Computer Science Department
-  * Fully funded by the China Scholarship Council
-  * Courses: Computer Vision; Robot Learning (lecture, seminar, and project Lab)
+_Software Engineer Intern_<br>
+  * Be tasked to develop a smartphone application that combines GOES-16 satellite imagery and lightning data into an image that is specific to the user’s geographic data.
 
-## Publications
+### **Beijing Strong Information System Co. Ltd** `Jun.2018 - Aug.2018`
 
-### [**Where Should We Place LiDARs on the Autonomous Vehicle? - An Optimal Design Approach**](https://arxiv.org/abs/1809.05845)
-**Zuxin Liu**, Mansur Arief, and Ding Zhao.<br>
-_2019 IEEE International Conference on Robotics and Automation (ICRA)._<br>
-[[LINK](https://arxiv.org/abs/1809.05845)]
-[[CODE](https://github.com/liuzuxin/liu_lidar_configuration_vsr_2018)]
+```
+Beijing, China
+```
 
-### [**DS-SLAM: A Semantic Visual SLAM towards Dynamic Environments**](https://arxiv.org/abs/1809.08379)
-Chao Yu, **Zuxin Liu**, Fei Qiao et al.<br>
-<i class="fas fa-award"></i> <strong>Ranked as the most popular presentation by [INFOVAYA](https://events.infovaya.com/).</strong><br>
-_2018 IEEE International Conference on Intelligent Robots and Systems (IROS)._<br>
-[[LINK](https://arxiv.org/abs/1809.08379)]
-[[CODE](https://github.com/liuzuxin/DS-SLAM)]
+_Software Engineer Intern_<br>
+  * Developed the functional modules of a chemical equipment virtual training system in **C#**, including the equipment structure module, the standard operation module, and the fault analysis module, used by more than 3000 students per year.
+  * Redesigned the activation and debugging of the model of chemical equipment, and the function allowing users to build the mathematical models to simulate chemical reactions by dragging modules and arrows.
+
+
+
+
+## Research Experiences
+
+### **State Key Laboratory of Intelligent Technology and Systems, Tsinghua University** `Oct.2018 - Mar.2019`
+
+```
+Beijing, China
+```
+
+_Research Assistant, advisor: Prof. Yiqun Liu_<br>
+  * **Project: Human Behavior Inspired Machine Reading Comprehension** [[PAPER](http://www.thuir.cn/group/~mzhang/publications/SIGIR2019Zheng.pdf)]
+    * Designed and conducted experiments to investigate human’s reading behavior patterns during reading comprehension tasks, processed and analyzed the eye-tracking data collected in the lab study.
+    * Proposed a two-stage reading behavior RNN-based model and extracted features to predict human’s attention, significantly improved performance in Machine Reading Comprehension task.
+    * Published in SIGIR 2019.
+
+### **Research Center of Advanced Computer Application Technology, Beihang University** `Mar.2019 - Jun.2019`
+
+```
+Beijing, China
+```
+
+_Research Assistant, advisor: Prof. Wenge Rong_<br>
+  * **Project: Aspect-based Sentiment Analysis**
+    * Trained classification models with PyTorch based on LSTM (Long Short-Term Memory), GRU (Gated Recurrent Unit), memory network and attention mechanism
+    * Accomplished the optimization of the model through stratifying words by category, rewriting sentences and adding topic information extracted by LDA
 
 
 ----
 
-## Undergraduate Experience
+## Completed Projects
 
-### **Darmstadt University of Technology** `2018.10 - 2019.3`
 
-_Advisor: Prof. Jan Peters & Dr. Riad Akrour_<br>
-* **Project**: Implement the DQN and MPC algorithms from scratch and thoroughly evaluate them on the Cart-pole, Double-cart-pole and Furuta Pendulum robot platforms. [[CODE](https://github.com/liuzuxin/ReinforcementLearning-DQN-MPC)]
 
-### **Tsinghua University** `2017.9 - 2018.7`
+### **Carnegie Mellon Unviersity** `Pittsburgh, Pennsylvania`
 
-_Research Assistant, advisor: Prof. Fei Qiao_<br>
-* **Project:** DS-SLAM: A Semantic Visual SLAM towards Dynamic Environments. Use semantic segmentation network to improve the Simultaneous Localization And Mapping (SLAM) robustness in dynamic environments. [[PAPER](https://arxiv.org/abs/1809.08379)][[CODE](https://github.com/liuzuxin/DS-SLAM)]
+* **Project 1 : E-Commerce System** [[CODE](https://github.com/yzx-oikawa/17-648-E-Commerce-System)] `Jan.2020 - Present`
+  * Built an e-commerce system with basic functionalities based on Express framework of **Node.js** and **MySQL**, deployed on **AWS** and focused on systemic properties such as availability, scalability and response time. 
 
-### **Beihang University** `2016.9 - 2018.10`
+* **Project 2 : Data Science Projects** [[CODE](https://github.com/yzx-oikawa/15-688-Practical-Data-Science)] `Sep.2019 - Dec. 2019`
+  * Implemented basic data science models from scratch in **Python**, such as Linear Regression, Support Vector Machine and MapReduce, and run on real world datasets. 
 
-_Advisor: Prof. Zhenzhong Wei_<br>
-*  **Project 1:** Robot’s Eyes and Brain: Visual Semantic SLAM System [[VIDEO](https://www.bilibili.com/video/BV1CW41157W2)] 
-    * Won the award from National Undergraduate Training Program for Innovation and Entrepreneurship
-    * Led a team to enable the robot finish high-level tasks autonomously (eg. The robot could understand user’s voice instructions and help user to find objects)
-    * Won the First Prize in the 2018 International Conference on Optics and Photonics(ICOPEN) 3-D Sensor Application Design Competition (1 out of 20 teams around the world)
-    * Won the First Prize in the 28th Feng Ru Cup Competition of Academic and Technological Works (top1%) <br>
-*  **Project 2:** VR Multicopter System [[VIDEO](https://www.bilibili.com/video/BV1Vx411s7HM)]
-    * Invented a muticopter system which could let user control the drone in the first person perspective
-    * Won the First Prize in the 2017 International Design and Innovation Competition (1 out of 14 teams around the world)<br>
-*  **Project 3:** Visual SLAM-based Autonomous Robot [[VIDEO](https://www.bilibili.com/video/BV1Lx411e7As)]
-    * Led a team to build a mobile robot platform which could achieve autonomous navigation and obstacle avoidance based on RTAB-Map and ROS
-    * Won the Second Prize in the 27th Feng Ru Cup Competition of Academic and Technological Works (top15%) <br>
-*  **Project 4:** Arduino-based Interactive Facial Expression Robot
-    * Independently developed  a servo control-based robot which could make different expressions according to user’s voice command
-    * Won the Third Prize in the 26th Feng Ru Cup Competition of Academic and Technological Works (top30%)<br>
+### **Beihang University** `Beijing, China`
 
-### **Da-Jiang Innnovations (DJI)** `2017.9 - 2018.7`
-_Algorithm Engineer Intern_<br>
-  * Co-designed an automatic AI robot system which is developed for [ICRA DJI RoboMaster AI challenge](https://www.icra2019.org/competitions/dji-robomaster-ai-challenge)
-  * Developed the localization module based on the LiDAR SLAM
-  * Developed the enemy detection module based on computer vision
+* **Project 1: C0-Compiler** [[CODE](https://github.com/yzx-oikawa/Compiler-C0)] `Oct.2017 - Jan.2018`
+  * Created a C0 (a subset of the C language) - Compiler that generates executable assembly code (MIPS) with code quantity of approximately 4000 lines
+  * Optimized the common subexpression elimination within the basic block
+
+* **Project 2: Taxi Dispatch System** [[CODE](https://github.com/yzx-oikawa/OO)] `Mar.2017 - Jun.2017`
+  * Wrote a multi thread system for simulating the call and response of 100 taxis in Java with approximately 3500 lines of code
+  * Analyzed the modelling of the system using multiple UML diagrams
+  * Designed and implemented the graphical user interface for the system
+
+* **Project 3: MIPS Pipeline CPU**  `Oct.2016 - Jan.2017`
+  * Implemented a pipeline CPU simulator using Verilog Hardware Description Language which supports 50 MIPS assembly instructions, meeting industry standards.
+  * Upgraded the CPU into a MIPS micro system with I/O and exception & interrupt processing and recovery.
 
 
 ## Teaching & Leadership
 
-**Head of Science Technology Department**, Students’ Union of Beihang University `Beijing, 2016 - 2018` <br>
-  * In charge of the organization and training of scientific and technological events.<br>
+**Teaching Assistant**, School of Computer Science, Beihang University `Beijing, 2017 - 2018` <br>
+_Mentored 60 students on core course Object-oriented Design and Construction_ <br>
+  * Revised the course syllabus and designed test cases for assignments.
+  * Held office hours to solve problems and addressed students' grievances.
+
+**Director of Publicity Department**, Beihang Blue Sky Volunteer Association `Beijing, 2016 - 2017` <br>
+  * Organized volunteering activities such as teaching in elementary schools and interpretation in museums.
+  * Designed posters for events with Photoshop and managed photography work.
   
-**Freshmen's Mentor**, School of Instrumentation Science & Opto-electronics Engineering, Beihang University `Beijing, 2016 - 2018` <br>
-  * Gave a series of lectures to teach students how to build a robot.
-  * Held a relevant smart robot competition for students.
-
-## Honors & Awards
-
-National Undergraduate Training Program for Innovation `Beihang University, 2018` <br>
-Beijing Outstanding Student `Ministry of Education of Beijing, 2018` <br>
-Honorable Mention `The Interdisciplinary Contest in Modeling, 2018` <br>
-University-level Outstanding Student `Beihang University, 2016 & 2017` <br>
-University-level Excellent Member `Beihang University, 2016 & 2017 & 2018` <br>
-The 2nd Prize in Beijing Physics Competition `Beijing Society of Physics, 2016` <br>
-  
-
-## Service
-
-Reviewer for ICRA 2020 `2019` <br>
-Reviewer for IROS 2020 `2020`
-
