@@ -2,12 +2,17 @@
 layout: cv
 title: Zixin Ye
 permalink: /cv/
+<!-- homepage:
+  url: https://yzx-oikawa.github.io
+  text: yzx-oikawa.github.io -->
 email:
   url: mailto:zixinye@andrew.cmu.edu
   text: zixinye@andrew.cmu.edu
-homepage:
-  url: https://yzx-oikawa.github.io
-  text: yzx-oikawa.github.io
+linkedin:
+  url: https://www.linkedin.com/in/zixin-ye/
+  text: linkedin.com/in/zixin-ye/
+phone: (412)-616-6781
+
 ---
 
 # Zixin **Ye**
@@ -17,73 +22,77 @@ homepage:
 
 ## Education
 
-### **Carnegie Mellon University - School of Computer Science** `Aug.2019 - Dec.2020`
+### **Carnegie Mellon University - School of Computer Science** `Pittsburgh, PA`
 
 ```
-Pittsburgh, PA
+Dec.2020
 ```
 
 Master of Software Engineering - Scalable Systems
-  * Courses: Analysis of Software Artifacts, DevOps, Managing Software Development
+  * Courses: Analysis of Software Artifacts, Engineering Data Intensive Scalable Systems, DevOps, Practical Data Science
 
 
-### **Beihang University** `Sep.2015 - Jun.2019`
+### **Beihang University** `Beijing, China`
 
 ```
-Beijing, China
+Jul.2019
 ```
 
 Bachelor of Science in Computer Science
-  * Courses: Algorithm Design, Object-oriented Design and Constructrion, Database Systems
+  * Courses: Object-oriented Design, Algorithmic Design, Database Systems, Computer Organization, Computer Network
 
 ## Skills
 
-  * **Programming Languages**: Python, Java, C, C#, HTML5, CSS3, JavaScript, Node.js, SQL, MATLAB
-  * **Frameworks &amp; Tools**: Linux, MySQL, Git, AWS, Docker, Jenkins, Ansible, Microsoft SDK
-  * Algorithms, software management methodologies, data science techniques, basic models of machine learning.
+  **Programming Languages**:|   |Java, Python, HTML, CSS, JavaScript, ECMAScript 6, Node.js, jQuery, C, C#, Dart, MATLAB
+  **Frameworks**:| |Express, Bootstrap, React, Flutter
+  **Databases**:| |MongoDB, MySQL
+  **Infrastructures &amp; Tools**:| |AWS, Kubernetes, Docker, Jenkins, Vagrant, Ansible, Prometheus, Grafana, Linux, Git, Jira
 
-## Internship Experiences
+## Work Experience
 
-### **Global Science & Technology, Inc.** `May.2020 - Aug.2020`
-
-```
-Greenbelt, Maryland
-```
-
-_Software Engineer Intern_<br>
-  * Be tasked to develop a smartphone application that combines GOES-16 satellite imagery and lightning data into an image that is specific to the user’s geographic data.
-
-### **Beijing Strong Information System Co. Ltd** `Jun.2018 - Aug.2018`
+### **Global Science & Technology, Inc.** `Greenbelt, MD`
 
 ```
-Beijing, China
+May.2020 - Aug.2020
 ```
 
 _Software Engineer Intern_<br>
-  * Developed the functional modules of a chemical equipment virtual training system in **C#**, including the equipment structure module, the standard operation module, and the fault analysis module, used by more than 3000 students per year.
-  * Redesigned the activation and debugging of the model of chemical equipment, and the function allowing users to build the mathematical models to simulate chemical reactions by dragging modules and arrows.
+  * Developed a new mobile application that built with **Flutter** framework and runs on both **Android** and **iOS** platforms.
+  * Displayed the nearest lightning strikes around the user, reminded user of approaching thunderstorms, and showed weather
+information at the user’s location.
+  * Integrated with real lightning data from GOES-16 satellite through RESTful APIs and Google Maps Platform.
+
+### **Beijing Strong Information System Co. Ltd** `Beijing, China`
+
+```
+Jun.2018 - Aug.2018
+```
+
+_Software Development Engineer Intern<br>
+  * Implemented a chemical equipment virtual training system in **C#**, allowing users to build mathematical models to simulate chemical reactions by dragging modules and arrows, used by more than 3000 university students per year.
+  * Collaborated with a team of 5 including manager of the department on designing the user interface of the system with WinForms.
 
 
 
 
 ## Research Experiences
 
-### **State Key Laboratory of Intelligent Technology and Systems, Tsinghua University** `Oct.2018 - Mar.2019`
+### **State Key Laboratory of Intelligent Technology and Systems, Tsinghua University** `Beijing, China`
 
 ```
-Beijing, China
+Oct.2018 - Mar.2019
 ```
 
 _Research Assistant, advisor: Prof. Yiqun Liu_<br>
   * **Project: Human Behavior Inspired Machine Reading Comprehension** [[PAPER](http://www.thuir.cn/group/~mzhang/publications/SIGIR2019Zheng.pdf)]
-    * Designed and conducted experiments to investigate human’s reading behavior patterns during reading comprehension tasks, processed and analyzed the eye-tracking data collected in the lab study.
-    * Proposed a two-stage reading behavior RNN-based model and extracted features to predict human’s attention, significantly improved performance in Machine Reading Comprehension task.
+    * Designed and conducted experiments with 32 participants to investigate human’s reading behavior patterns during reading comprehension tasks, processed and analyzed the eye-tracking data collected in the lab study.
+    * Proposed a two-stage reading behavior RNN-based model and extracted features to predict human attention, implemented with **PyTorch**, and significantly improved performance in the Machine Reading Comprehension task
     * Published in SIGIR 2019.
 
-### **Research Center of Advanced Computer Application Technology, Beihang University** `Mar.2019 - Jun.2019`
+### **Research Center of Advanced Computer Application Technology, Beihang University** `Beijing, China`
 
 ```
-Beijing, China
+Mar.2019 - Jun.2019
 ```
 
 _Research Assistant, advisor: Prof. Wenge Rong_<br>
@@ -94,30 +103,39 @@ _Research Assistant, advisor: Prof. Wenge Rong_<br>
 
 ----
 
-## Completed Projects
+## Academic Projects
 
 
 
-### **Carnegie Mellon Unviersity** `Pittsburgh, Pennsylvania`
+### **Carnegie Mellon Unviersity** `Pittsburgh, PA`
 
-* **Project 1 : E-Commerce System** [[CODE](https://github.com/yzx-oikawa/17-648-E-Commerce-System)] `Jan.2020 - Present`
-  * Built an e-commerce system with basic functionalities based on Express framework of **Node.js** and **MySQL**, deployed on **AWS** and focused on systemic properties such as availability, scalability and response time. 
+* **Memory Book** [[LINK](https://floating-harbor-55552.herokuapp.com)] [[CODE](https://github.com/yzx-oikawa/Memory-Book)] `Jun.2020 - Jul.2020`
+  * Built a photo-posting social website with **HTML/CSS/JavaScript** that allows users to share memories and communicate with each other.
+  * Created RESTful routes based on Express framework of **Node.js** and **Bootstrap 4** and deployed to Heroku.
+  * Ensured data persistence by storing data in **MongoDB** and allowed authentication by using a user management system.
 
-* **Project 2 : Data Science Projects** [[CODE](https://github.com/yzx-oikawa/15-688-Practical-Data-Science)] `Sep.2019 - Dec. 2019`
+* **E-Commerce System** [[CODE](https://github.com/yzx-oikawa/17-648-E-Commerce-System)] `Jan.2020 - Apr.2020`
+  * Wrote an e-commerce system with CRUD functions based on Express framework of **Node.js** and **MySQL**, deployed on **AWS**.
+  * Improved systematic properties such as scalability and performance by 22% by adding a load balancer.
+
+* **Quality Assurance Testing on Smart Home System** `Jan.2020 - Apr.2020`
+  * Set up test automation infrastructure with Jenkins which conducts multiple kinds of testing (unit, integrated, A/B, static analysis).
+  * Deployed with **Docker** and set up a monitoring dashboard with **Prometheus** and **Grafana** to display resource consumptions.
+
+* **Data Science Projects** [[CODE](https://github.com/yzx-oikawa/15-688-Practical-Data-Science)] `Sep.2019 - Dec. 2019`
   * Implemented basic data science models from scratch in **Python**, such as Linear Regression, Support Vector Machine and MapReduce, and run on real world datasets. 
 
 ### **Beihang University** `Beijing, China`
 
-* **Project 1: C0-Compiler** [[CODE](https://github.com/yzx-oikawa/Compiler-C0)] `Oct.2017 - Jan.2018`
-  * Created a C0 (a subset of the C language) - Compiler that generates executable assembly code (MIPS) with code quantity of approximately 4000 lines
+* **C0-Compiler** [[CODE](https://github.com/yzx-oikawa/Compiler-C0)] `Oct.2018 - Jan.2019`
+  * Created a C0 (a subset of C) Compiler that generates executable assembly code (MIPS) with approximately 4000 lines of code.
   * Optimized the common subexpression elimination within the basic block
 
-* **Project 2: Taxi Dispatch System** [[CODE](https://github.com/yzx-oikawa/OO)] `Mar.2017 - Jun.2017`
-  * Wrote a multi thread system for simulating the call and response of 100 taxis in Java with approximately 3500 lines of code
-  * Analyzed the modelling of the system using multiple UML diagrams
-  * Designed and implemented the graphical user interface for the system
+* **Taxi Dispatch System** [[CODE](https://github.com/yzx-oikawa/OO)] `Mar.2018 - Jun.2018`
+  * Wrote a multi-thread system in **Java** simulating the call and response of 100 taxis which follow the shortest path when picking up passengers and driving to their destinations, and designed the graphical interface for the system with Java GUI.
+  * Completed requirements specification for every class and method and analyzed the modeling of the system using UML diagrams.
 
-* **Project 3: MIPS Pipeline CPU**  `Oct.2016 - Jan.2017`
+* **MIPS Pipeline CPU**  `Oct.2017 - Jan.2018`
   * Implemented a pipeline CPU simulator using Verilog Hardware Description Language which supports 50 MIPS assembly instructions, meeting industry standards.
   * Upgraded the CPU into a MIPS micro system with I/O and exception & interrupt processing and recovery.
 

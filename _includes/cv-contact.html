@@ -5,14 +5,19 @@
     <a href="{{ page.homepage.url }}" style="margin-left:0.5em"> {{ page.homepage.text }}</a>
     {% endif %}
 
+    {% if page.phone %}
+    <i class="fi-telephone" style="margin-left:1em"></i>
+    <span style="color:black">{{ page.phone }}</span>
+    {% endif %}
+
     {% if page.email %}
     <i class="fi-mail" style="margin-left:1em"></i>
     <a href="{{ page.email.url }}" style="margin-left:0.5em">{{ page.email.text }}</a>
     {% endif %}
 
-    {% if page.phone %}
-    <i class="fi-telephone" style="margin-left:1em"></i>
-    {{ page.phone }}
+    {% if page.linkedin %}
+    <i class="fi-social-linkedin" style="margin-left:1em"></i>
+    <a href="{{ page.linkedin.url }}" style="margin-left:0.5em">{{ page.linkedin.text }}</a>
     {% endif %}
 
 </div>
